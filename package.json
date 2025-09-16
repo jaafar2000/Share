@@ -1,0 +1,39 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.31.4",
+    "@clerk/themes": "^2.4.13",
+    "@imagekit/next": "^2.1.2",
+    "date-fns": "^4.1.0",
+    "lucide": "^0.542.0",
+    "lucide-react": "^0.542.0",
+    "mongodb": "^6.18.0",
+    "mongoose": "^8.17.2",
+    "next": "15.5.0",
+    "pusher": "^5.2.0",
+    "pusher-js": "^8.4.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "svix": "^1.74.1",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
