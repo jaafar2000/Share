@@ -37,7 +37,7 @@ Thanks for checking out this application.
 - [Clerk](https://clerk.com/)  
 - [ImageKit.io](https://imagekit.io/)  
 - [Tailwind CSS](https://tailwindcss.com/)  
-- JavaScript / JSX  
+- TypeScript / TSX  
 
 ---
 
